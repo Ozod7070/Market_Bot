@@ -1,0 +1,15 @@
+package uz.pdp.enums;
+
+public enum UserState {
+    MAIN_MENU,
+    BROWSING_PRODUCTS,
+    SEARCHING,
+    SEARCHING_RESULTS,
+    CART,
+    ORDERING,
+    AWAITING_PHONE,
+    AWAITING_NAME,
+    AUTHENTICATED,
+    VIEWING_CART,
+    DEFAULT
+}
